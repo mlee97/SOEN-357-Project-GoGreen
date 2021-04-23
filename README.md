@@ -18,3 +18,13 @@ Starting a sustainable and eco-friendly lifestyle can be intimidating. While mor
 - Kotlin
 - Google Maps API
 
+## Screenshots
+
+![gogreen1](https://user-images.githubusercontent.com/47061375/115924614-f97ba880-a44d-11eb-8c72-135fc6073c3e.png)
+![gogreen2](https://user-images.githubusercontent.com/47061375/115924618-faacd580-a44d-11eb-9676-3f097a4c78c4.png)
+![gogreen3](https://user-images.githubusercontent.com/47061375/115924622-fc769900-a44d-11eb-86f5-b6e6e82b0cae.png)
+![gogreen4](https://user-images.githubusercontent.com/47061375/115924626-fda7c600-a44d-11eb-826e-3097c5a37597.png)
+![gogreen5](https://user-images.githubusercontent.com/47061375/115924630-fed8f300-a44d-11eb-950e-ae820fec08fa.png)
+![gogreen6](https://user-images.githubusercontent.com/47061375/115924635-ff718980-a44d-11eb-8873-7f52166cf3ef.png)
+
+
